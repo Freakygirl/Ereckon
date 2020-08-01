@@ -1,0 +1,16 @@
+{
+    "NAME" : "Ekta Shrivastava",
+    "ABOUT_ME" : "Student at AKTU: Ekta Shrivastava is student of  B.Tech at Kanpur Institute of Technology which is affliated by AKTU, Lucknow. I am former student of Diploma at BTEUP, Lucknow.I have so worked on technologies such as PHP, Python and I have learned C-language too. I am improving my coding skills everyday by practising on different platforms such as Leetcode, Hackerrank, Hackerblocks, Hackerearth.",
+    "LANGUAGES": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "C++"
+    ],
+    "PROJECTS" : [
+    ["filter_drama", "Google", "Google is an amazing search engine"],
+    ["place", "Facebook", "Facebook is the widely used social media platform"],
+    ["whatshot", "Spotify", "Spotify is the most cool music player"]
+    ]
+}
+
